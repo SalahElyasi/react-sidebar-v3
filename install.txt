@@ -1,0 +1,23 @@
+npx create-react-app react-sidebar-v1
+cd react-sidebar-v1
+delete unnecessary files and codes
+npm start
+
+npm i react-icons
+https://react-icons.github.io/react-icons/icons?name=fa
+import { IconName } from "react-icons/fa";
+
+
+npm install --save react-router-dom
+
+
+
+
+
+
+
+
+
+
+
+npm install -D babel-loader @babel/core @babel/preset-env webpack
